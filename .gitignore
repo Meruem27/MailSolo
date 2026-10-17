@@ -1,0 +1,14 @@
+__pycache__/
+logs/
+*.pyc
+
+# 项目本地构建环境（依赖、缓存、临时文件均不进入版本库）
+.venv/
+.pip-cache/
+.tmp/
+build/
+.runtime/
+logo/MailSolo.ico
+
+# 本地助手工作目录
+.workbuddy-ai/

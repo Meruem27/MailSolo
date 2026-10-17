@@ -1,0 +1,4 @@
+# Build-time dependencies only. MailSolo itself uses the Python standard library.
+# Installed into the project-local environment (.venv) by build_exe.ps1.
+pyinstaller==6.19.0
+pillow==12.1.1
